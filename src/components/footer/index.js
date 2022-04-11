@@ -1,5 +1,5 @@
 export const Footer = () => {
   return (
-    <div>desenvolvido ❤️ agendar</div>
+    <div>Desenvolvido com ❤️ por Agendar</div>
   )
 }

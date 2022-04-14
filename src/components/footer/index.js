@@ -3,3 +3,4 @@ export const Footer = () => {
     <div>Desenvolvido com ❤️ por Agendar</div>
   )
 }
+
